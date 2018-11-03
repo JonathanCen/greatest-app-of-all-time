@@ -6,36 +6,52 @@ Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (descr
 
 **Required Must-have Stories**
 
- * [fill in your required user stories here]
+ * User can register a new account
+ * User can login
+ * User can upload and view their syllabus 
  * ...
 
 **Optional Nice-to-have Stories**
 
- * [fill in your required user stories here]
+ * User can be notified as assignments are due
+ * User can mark off tasks/ assignments as they're completed
+ * User can change syllabus after each semester
+ * User (students or teachers) can share their course syllabus with classmates and peers 
  * ...
 
 ## 2. Screen Archetypes
 
- * [list first screen here]
-   * [list associated required story here]
+ * Login Screen
+   * User can login to a preexisting account or click to register for a new account
    * ...
- * [list second screen here]
-   * [list associated required story here]
+ * Registration Screen
+   * User can register a new account
    * ...
+ * Stream (Home)
+   * User can view their syllabus and upcoming assignments 
+ * Detail 
+   * User can view the details of an assignment, rubic, or grade chart of a course 
+ * Creation 
+   * User can add their syllabus/course/assignment to their account 
 
 ## 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
- * [fill out your first tab]
- * [fill out your second tab]
+ * Home screen
+ * Creation screen
  * [fill out your third tab]
 
 **Flow Navigation** (Screen to Screen)
 
- * [list first screen here]
-   * [list screen navigation here]
+ * Login Screen
+   * => Home
+   * => Registration Screen
    * ...
- * [list second screen here]
-   * [list screen navigation here]
+ * Registration Screen
+   * => Home
    * ...
+ * Home Screen
+    * => Detail Screen 
+ * Creation Screen
+    * => Home (after upload complete)
