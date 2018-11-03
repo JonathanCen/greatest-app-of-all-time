@@ -9,7 +9,6 @@ Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (descr
  * User can register a new account
  * User can login
  * User can upload and view their syllabus 
- * ...
 
 **Optional Nice-to-have Stories**
 
@@ -17,16 +16,13 @@ Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (descr
  * User can mark off tasks/ assignments as they're completed
  * User can change syllabus after each semester
  * User (students or teachers) can share their course syllabus with classmates and peers 
- * ...
 
 ## 2. Screen Archetypes
 
  * Login Screen
    * User can login to a preexisting account or click to register for a new account
-   * ...
  * Registration Screen
    * User can register a new account
-   * ...
  * Stream (Home)
    * User can view their syllabus and upcoming assignments 
  * Detail 
@@ -47,10 +43,8 @@ Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (descr
  * Login Screen
    * => Home
    * => Registration Screen
-   * ...
  * Registration Screen
    * => Home
-   * ...
  * Home Screen
     * => Detail Screen 
  * Creation Screen
