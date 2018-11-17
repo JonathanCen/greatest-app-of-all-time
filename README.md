@@ -82,7 +82,7 @@ This app allows you to upload your syllabus from class to the app and the app wi
 ---
 
 ### Wireframes
- <img src="https://raw.githubusercontent.com/Codepath-Group39/greatest-app-of-all-time/master/Untitled.png" width=300><br>
+ <img src="https://raw.githubusercontent.com/Codepath-Group39/greatest-app-of-all-time/master/Untitled.png" width=500><br>
 
 
 ---
