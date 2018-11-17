@@ -82,7 +82,8 @@ This app allows you to upload your syllabus from class to the app and the app wi
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+// TODO: <img src="" width=200><br>
+
 
 ---
 
